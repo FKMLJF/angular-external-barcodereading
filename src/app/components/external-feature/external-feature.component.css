@@ -1,0 +1,8 @@
+.barcode-input{
+  position: absolute;
+  height: 0;
+  width: 0;
+  background: transparent;
+  border: transparent;
+  color: transparent
+}
